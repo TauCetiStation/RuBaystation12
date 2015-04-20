@@ -1,5 +1,6 @@
 #pretending we're C because otherwise ruby will initialize, even with "language: dm".
 #test commit
+#test commit2
 language: c
 
 env:
